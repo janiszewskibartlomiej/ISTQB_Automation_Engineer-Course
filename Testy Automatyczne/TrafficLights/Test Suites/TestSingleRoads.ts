@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSingleRoads</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>81f2b777-3b79-43c6-b43b-2e0896049549</testSuiteGuid>
+   <testCaseLink>
+      <guid>43ccf6bd-fea1-48a5-b8fe-fe7dec44f740</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RoadAlone</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>31203d5a-62f9-4b0d-b668-0384d4fe0d61</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/RoadNames</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>31203d5a-62f9-4b0d-b668-0384d4fe0d61</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ID</value>
+         <variableId>551859d5-9f41-4675-91b9-a51643978c5d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>31203d5a-62f9-4b0d-b668-0384d4fe0d61</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NAME</value>
+         <variableId>65febc10-444c-4375-aa92-2f3899145d64</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

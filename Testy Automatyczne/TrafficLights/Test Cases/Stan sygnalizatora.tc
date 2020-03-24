@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Stan sygnalizatora</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94fa2dac-8d57-4a28-abf9-502ba1adfc43</testCaseGuid>
+   <variable>
+      <defaultValue>11</defaultValue>
+      <description></description>
+      <id>d69e27e9-7807-4226-ac57-9b3cb9d49c47</id>
+      <masked>false</masked>
+      <name>sign_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'Green'</defaultValue>
+      <description></description>
+      <id>048cb753-3bcf-4bf1-9949-652b23e51ed6</id>
+      <masked>false</masked>
+      <name>expected_state</name>
+   </variable>
+</TestCaseEntity>

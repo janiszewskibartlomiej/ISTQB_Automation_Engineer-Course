@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RoadAlone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a30df8-4336-404b-8afe-bfe510d8bc18</testCaseGuid>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>551859d5-9f41-4675-91b9-a51643978c5d</id>
+      <masked>false</masked>
+      <name>road_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'S'</defaultValue>
+      <description></description>
+      <id>65febc10-444c-4375-aa92-2f3899145d64</id>
+      <masked>false</masked>
+      <name>road_name</name>
+   </variable>
+</TestCaseEntity>

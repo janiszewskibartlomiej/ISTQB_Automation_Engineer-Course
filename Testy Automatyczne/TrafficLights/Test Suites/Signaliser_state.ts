@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Signaliser_state</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>05fbbf0e-b655-4df8-bf80-a5f1d8057738</testSuiteGuid>
+   <testCaseLink>
+      <guid>68b6f0ad-5d33-405b-afeb-e3502dcb6d4a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Stan sygnalizatora</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8b7bf41e-19c4-406d-94e7-2a3b32831576</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New Test Data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8b7bf41e-19c4-406d-94e7-2a3b32831576</testDataLinkId>
+         <type>DATA_COLUMN_INDEX</type>
+         <value>1</value>
+         <variableId>d69e27e9-7807-4226-ac57-9b3cb9d49c47</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8b7bf41e-19c4-406d-94e7-2a3b32831576</testDataLinkId>
+         <type>DATA_COLUMN_INDEX</type>
+         <value>2</value>
+         <variableId>048cb753-3bcf-4bf1-9949-652b23e51ed6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
