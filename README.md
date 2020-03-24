@@ -1,1 +1,1 @@
-# ISTQB_Automation_Engineer
+# ISTQB_Automation_Engineer - course
